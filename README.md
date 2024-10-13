@@ -26,7 +26,7 @@ Before running Trade Master, ensure you have the following prerequisites install
 1. Clone this repository:
 
    ```bash
-
+        https://github.com/nareshvlogger7/Zen_trading-Angel-one-/tree/main
    ```
 
 2. Navigate to the project directory:
